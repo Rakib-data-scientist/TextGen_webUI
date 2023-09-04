@@ -1,6 +1,6 @@
 # TextGen_webUI
 
-Official github : https://github.com/oobabooga/text-generation-webui
+Inspired by : https://github.com/oobabooga/text-generation-webui
 
 1.
 ![Text-Generation-Web-UI_page-0001](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/c39c9cb6-0cd3-408d-b32b-66af6b208ed4)
