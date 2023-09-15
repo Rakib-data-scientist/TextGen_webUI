@@ -1,27 +1,28 @@
 # TextGen_webUI
 
-Inspired by : https://github.com/oobabooga/text-generation-webui
-
 1.
-![Text-Generation-Web-UI_page-0001](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/c39c9cb6-0cd3-408d-b32b-66af6b208ed4)
+![Text-Generation-Web-UI_page-0001](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/fc1e6b5c-edf0-4f31-a065-7580c265503c)
 2.
-![Text-Generation-Web-UI_page-0002](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/b994f003-fcda-471c-8d32-64cb5c59dfe0)
+![Text-Generation-Web-UI_page-0002](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/bf1c9530-5ab8-4aa5-8ae0-14376126e223)
 3.
-![Text-Generation-Web-UI_page-0003](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/e887d7a4-dc37-44fa-9fdf-5c5949146cdc)
+![Text-Generation-Web-UI_page-0003](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/1cba2b09-ca70-48d5-bbc1-8b65ab3373d3)
 4.
-![Text-Generation-Web-UI_page-0004](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/1266d1d9-cfc1-4575-9afc-440ffa53b96f)
+![Text-Generation-Web-UI_page-0004](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/b070b7ef-f20c-4671-8d88-971ff6afb686)
 5.
-![Text-Generation-Web-UI_page-0005](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/2f6132d0-7e16-4f73-82c2-2e57eb14a2b5)
+![Text-Generation-Web-UI_page-0005](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/48c791ff-d9f5-4777-ad56-533541230b4c)
 6.
-![Text-Generation-Web-UI_page-0006](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/e4d72d3d-ba8e-4be7-aae3-a9b42a596d84)
+![Text-Generation-Web-UI_page-0006](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/cdcfeb16-975c-42a8-85aa-b2dcbec2afb1)
 7.
-![Text-Generation-Web-UI_page-0007](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/e28f42a6-7846-4e53-9a1c-6c20d90d52fc)
+![Text-Generation-Web-UI_page-0007](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/9823a01c-c2ed-47f0-9066-7e6a0fbb0ff8)
 8.
-![Text-Generation-Web-UI_page-0008](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/23023e0d-2ab7-4d04-9499-3dd169fa1683)
+![Text-Generation-Web-UI_page-0008](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/599e6be2-de29-4612-a590-ac1673f4457d)
 9.
-![Text-Generation-Web-UI_page-0009](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/810e2eba-365a-4f04-aba6-80e6fbbd5e4b)
+![Text-Generation-Web-UI_page-0009](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/92cf7c51-85f1-4ad8-aa77-bc813a54fca4)
 10.
-![Text-Generation-Web-UI_page-0010](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/4ccc1ff6-1198-4c5d-81c0-1969c8153f6f)
+![Text-Generation-Web-UI_page-0010](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/e69c7155-675c-4c5d-a752-f7eb1b828e2b)
 11.
-![Text-Generation-Web-UI_page-0011](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/12bbe825-dc00-431b-ab96-62784f7b938d)
-e2-919c-e849eee99f52)
+![Text-Generation-Web-UI_page-0011](https://github.com/Rakib-data-scientist/TextGen_webUI/assets/137823730/85ec05f8-c523-4961-bb35-48fd85d16474)
+
+
+* Inspired by : https://github.com/oobabooga/text-generation-webui
+
